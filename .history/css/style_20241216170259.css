@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* border: 1px solid red; */
 }
 
 body {
@@ -29,7 +30,6 @@ body {
 iframe {
     width: 600px;
     height: 450px;
-    background-color: azure;
 }
 
 /* Responsiviteti/ Media Screen */
